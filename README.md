@@ -15,3 +15,8 @@ LOGIC
 The snake is made using a list of SnakeComponents. Every SnakeComponent has its own attributes and follows the SnakeComponent in front of it. 
 The food is generated randomly. 
 Collisions are detected when the head of the snake overlaps with the food, itself, or with the corners. 
+
+INSTRUCTIONS
+
+Press ENTER to start the game. 
+Avoid collision with walls and yourself and try to eat as much food as possible for a higher score.  
