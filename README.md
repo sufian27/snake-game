@@ -18,7 +18,7 @@ I made this app after taking my first Computer Science course in college. Since 
 - The **Food** is generated randomly. 
 - Collisions are detected when the head of the snake overlaps with the **Food**, itself, or with the corners. 
 
-## INSTRUCTIONS
+### INSTRUCTIONS
 
 - Press ENTER to start the game. 
 - Avoid collision with **walls** and **yourself** and try to eat as much food as possible for a higher score.  
