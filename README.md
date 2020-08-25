@@ -6,10 +6,10 @@ I made this app after taking my first Computer Science course in college. Since 
 
 ### CLASSES 
 
-- **Canvas class:** Contains all the computation.
-- **Food class:** Defines the attributes of a "food" for the snake.
+- **Canvas:** Contains all the computation.
+- **Food:** Defines the attributes of a "food" for the snake.
 - **SnakeComponent:** Defines the attributes of every component of the snake. This class is used to make a list of SnakeComponents that currently make up the snake.
-- **Turn class:** Defines the x and y coordinates of every turn that the snake makes. This class is used to make a list of where the snake is going.
+- **Turn:** Defines the x and y coordinates of every turn that the snake makes. This class is used to make a list of where the snake is going.
 - **MyApp:** Creates and makes the JFrame visible. 
 
 ### LOGIC 
@@ -20,5 +20,5 @@ I made this app after taking my first Computer Science course in college. Since 
 
 ### INSTRUCTIONS
 
-- Press ENTER to start the game. 
-- Avoid collision with **walls** and **yourself** and try to eat as much food as possible for a higher score.  
+- Press *ENTER* to start the game. 
+- Avoid collision with walls and yourself and try to eat as much food as possible for a higher score.  
